@@ -1,0 +1,30 @@
+<style>
+    h1{
+        background:orchid;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-top: 10px;
+        text-align:center;
+        color:bisque;
+        border-style: solid;
+       border-color: rgb(17, 18, 18);  
+
+    }
+    h2{
+        background-color:chocolate;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-top: 10px;
+        text-align:center;
+        color: burlywood;
+        border-style:double;
+       border-color: rgb(14, 14, 15);  
+    }
+    <!--To see the educational qualificationn in tabular structure-->
+    table, th, td {
+  border: 1px solid rgb(12, 184, 241);
+  }
+  body   {
+    background-color:beige;
+}
+</style>
